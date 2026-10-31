@@ -3,6 +3,8 @@
 
 This is Blobbystart, where you are a blob. You go around, collect coins, and put it in the basket! Each coin you put in the basket is added to your score. You can only hold one coin at a time. You can play it at [https://jonathan4e.itch.io/jumpstart-game](https://jonathan4e.itch.io/jumpstart-game). It is built using the Godot Game Engine.
 
+To play, use your arrow keys to move left, right, up or down, and collect the coins one by one. Put them into the basket to see your score change!
+
 
 ----
 
